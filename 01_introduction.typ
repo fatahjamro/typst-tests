@@ -1,3 +1,5 @@
+#import "@preview/quill:0.7.0": *
+
 = Introduction
 Current era is referred to as the second quantum revolution. It has become possible due to the advancement in the field of quantum information science. Second quantum revolution is promising to develop next generation technologies that will be way better than the transistor technologies that we have due to the first quantum revolution. Quantum computing stands at the forefront of a second quantum technological revolution @deutsch2020HarnessingPowerSecond.
 
