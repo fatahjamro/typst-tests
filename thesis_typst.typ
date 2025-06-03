@@ -1,21 +1,18 @@
-// thesis_typst.typ
+title = [
+  Exploring Quantum Latin Squares
+]
 
-// (Optional) global metadata
-title("Exploring Quantum Latin Squares")
-author("Muhammad Mohsin")
-date("June 2025")
-bibliography("references.bib")
+bibliography("89_bibliography.bib")
 
-// Optional title page
 show title()
+#set heading(numbering: "1.")
 
-// Optional table of contents
-
-// Include your chapters
+// = Contents
+// #toc()
 #include "01_introduction.typ"
 #include "02_methods.typ"
 #include "03_results.typ"
 #include "04_conclusion.typ"
 
-// The bibliography will automatically pull from the .bib file
+= References
 #bibliography("89_bibliography.bib")
